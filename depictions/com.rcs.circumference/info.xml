@@ -11,6 +11,7 @@
 	<descriptionlist>
 		<description>This is a two tone monochrome theme for iOS</description>
 		<description>It may take some time to get use to the fact there's no color, but if you know where all of your icons are already then this shouldn't be too hard of a transfer.</description>
+		<description>This theme includes 215 custom icons. Most of these are simple redesigns, but others are entire overhauls. This could be a much cleaner theme, but for this being my first theme ever I believe I did pretty well.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -30,9 +31,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
