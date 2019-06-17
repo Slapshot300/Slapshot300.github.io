@@ -37,7 +37,7 @@
 		<link>
 			<name>Please consider Donateing to my PayPal if you like this theme!</name>
 			<url>https://www.paypal.me/RSlosberg</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-paypal</iconclass>
 		</link>
 	</links>
 </package>
