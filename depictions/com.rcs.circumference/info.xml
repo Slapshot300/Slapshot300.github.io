@@ -1,8 +1,8 @@
 <package>
-    <id>com.rcs.circumference</id>
-    <name>Circumference</name>
-    <version>1.0.0</version>
-    <compatibility>
+	<id>com.rcs.circumference</id>
+	<name>Circumference</name>
+	<version>1.0.0</version>
+	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
@@ -10,31 +10,30 @@
 	<shortDescription>A Two Tone Monochrome Theme</shortDescription>
 	<descriptionlist>
 		<description>This is a two tone monochrome theme for iOS</description>
-		<description>It may take some time to get use to the fact there's no color,</description>
-        <description>but if you know where all of your icons are already then this shouldn't be too hard of a transfer.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>It may take some time to get use to the fact there's no color, but if you know where all of your icons are already then this shouldn't be too hard of a transfer.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<image>IMG_2641.PNG</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<image>IMG_2642.PNG</image>
 		</screenshot>
-        <screenshot>
+		<screenshot>
 			<image>IMG_2643.PNG</image>
-		</screenshot>		
-        <screenshot>
+		</screenshot>
+		<screenshot>
 			<image>IMG_2644.PNG</image>
-		</screenshot>	
-        <screenshot>
+		</screenshot>
+		<screenshot>
 			<image>IMG_2645.PNG</image>
-		</screenshot>	
-    </screenshots>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
 	<links>
 		<link>
 			<name>Please consider Donateing to my PayPal if you like this theme!</name>
