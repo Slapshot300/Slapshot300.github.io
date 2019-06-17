@@ -1,11 +1,11 @@
 Package: com.rcs.circumference
-Version: 1.0.0
-Section: Themes
-Maintainer: Remy Slosberg (Slapshot300) <Slosberg.remy@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.rcs.circumference.deb
-Description: A Two Tone Monochrome Theme
 Name: Circumference
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A Two Tone Monochrome Theme
+Maintainer: Remy Slosberg (Slapshot300) <Slosberg.remy@gmail.com>
 Author: Remy Slosberg (Slapshot300) <Slosberg.remy@gmail.com>
+Section: Themes
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.rcs.circumference.deb
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.rcs.circumference
