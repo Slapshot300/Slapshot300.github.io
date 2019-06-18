@@ -46,7 +46,7 @@ Twitter - @TimonOlsthoorn
 
 
 // changed const to var for IE9/10 compatibity.
-var VERSION_CHECK_SUPPORTED = "Horray! Your iOS version is supported!";
+var VERSION_CHECK_SUPPORTED = "Hooray! Your iOS version is supported!";
 var VERSION_CHECK_NEEDS_UPGRADE = "Drats! Requires at least iOS %s";
 var VERSION_CHECK_UNCONFIRMED = "Hmm... Not yet tested on iOS %s";
 var VERSION_CHECK_UNSUPPORTED = "Whoops! Only compatible with iOS %s to %s";
