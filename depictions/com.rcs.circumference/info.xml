@@ -1,7 +1,7 @@
 <package>
 	<id>com.rcs.circumference</id>
 	<name>Circumference</name>
-	<version>1.1.5</version>
+	<version>1.1.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -31,7 +31,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed minor errors in certain icons, added extra icons</change>
+		<change>Fixed Call of Duty icon having blue guidelines, fixed shortcuts icon naming</change>
 	</changelog>
 	<links>
 		<link>
